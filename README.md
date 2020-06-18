@@ -22,3 +22,7 @@ Fit the Model to the dataset where we train over a batch of 16 and train it for 
 ## Evaluation 
 Make the predictions over the test set  
 HotEncode the results and print it
+
+
+## Running the script  
+python classify.py
