@@ -1,9 +1,9 @@
 # Text Classification
 
 ## Importing the dependencies
-pip install csv
-pip install pandas
-pip install sci-kit learn
+pip install csv  
+pip install pandas  
+pip install sci-kit learn  
 pip install tensorflow
 
 ## Reading and preprocessing of the data
@@ -20,5 +20,5 @@ We creat a dense layer of 5 units which uses a softmax activation function and  
 Fit the Model to the dataset where we train over a batch of 16 and train it for 6 epochs
 
 ## Evaluation 
-Make the predictions over the test set
+Make the predictions over the test set  
 HotEncode the results and print it
